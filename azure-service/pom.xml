@@ -2,6 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
+    <version>2012.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -11,7 +12,6 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
 	</parent>
 	<groupId>com.manhnd</groupId>
 	<artifactId>azure-service</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<name>azure-service</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
